@@ -112,27 +112,7 @@ const vinicius = {
 
 <div align="center">
 
-<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=viniciusmontes&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00E676&icon_color=00E676&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-
-<img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmontes&layout=compact&langs_count=8&hide_border=true&title_color=00E676&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusmontes&theme=github-dark-blue&hide_border=true&ring=00E676&fire=00E676&currStreakLabel=00E676" />
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-[![Vinicius' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusmontes\&bg_color=0d1117\&color=c9d1d9\&line=00E676\&point=ffffff\&area=true\&area_color=00E676\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
