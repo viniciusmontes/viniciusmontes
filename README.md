@@ -159,7 +159,7 @@ ou oportunidades profissionais, pode me chamar:
 
 <div align="center">
 
-### 💚 Code. Learn. Build. Improve.
+### 🕊️
 
 </div>
 
